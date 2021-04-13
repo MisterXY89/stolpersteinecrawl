@@ -1,2 +1,2 @@
-# stolpersteinecrawl
-crawl bios, images and names from the stolpersteine-konstanz page
+# Stolpersteine crawl
+Crawl bios, images and names from the stolpersteine-konstanz website
